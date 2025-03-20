@@ -39,7 +39,7 @@ def updaterpc(RPC, project_name, version):
             large_image=image,
             large_text=f"FL Studio Version: {version}",
             small_image = "flibb",
-            small_text = "FLRPC, written by @trix9x, github.com/odinong/FLRPC",
+            small_text = "FLRPC, written by @tearintomyskin, github.com/odinong/FLRPC",
             start=int(time.time())
         )
         print(f"RPC updated with project name: {project_name} (FL Studio Version: {version})")
