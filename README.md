@@ -50,7 +50,7 @@ pip install psutil pygetwindow pypresence
 
 ## Credits
 
-- Developed by [@trix9x](https://github.com/odinong).
+- Developed by [@tearintomyskin](https://github.com/odinong).
 
 ## License
 
